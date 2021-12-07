@@ -1,4 +1,4 @@
-# stick 검색앱
+# sticker 검색앱
 
 ## 버전
 vue3 + typescript
@@ -9,7 +9,7 @@ vue3 + typescript
 
 - [GIF 검색](https://developers.giphy.com/docs/api/endpoint#search)
 - [GIF 추천검색](https://developers.giphy.com/docs/api/endpoint#search-suggestions)
-## STORE
+## Vuex STORE
 > store 타입 정의
 
 - index.ts
